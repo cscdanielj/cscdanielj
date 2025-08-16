@@ -1,6 +1,6 @@
 # Hello All! 👋 Welcome to my Github Profile!!
 
-I’m Jason Douglas Daniel, a recent Cybersecurity graduate with a small foundation in IT support, incident response, and problem-solving. I earned my Bachelor’s Degree in Cybersecurity from The University of Southern Mississippi and am eager to launch my career as a cybersecurity professional.
+I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in IT support, incident response, and problem-solving. I earned my Bachelor’s Degree in Cybersecurity from The University of Southern Mississippi and am eager to launch my career as a cybersecurity professional.
 
 ## Quick links
 - 🌐 Portfolio: https://cscdanielj.github.io
