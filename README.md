@@ -22,8 +22,13 @@ I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in I
 **Scripting:** Bash, PowerShell (beginner-friendly, task-oriented)
 
 ## 🚧 Projects and Labs
-- [Ubuntu SOC Lab](https://github.com/cscdanielj/homelab-ubuntu-soc) — Wazuh SIEM + Suricata IDS on Ubuntu 20.04.6  
-- [Windows 10 Endpoint Lab](https://github.com/cscdanielj/homelab-windows10-vm) — Sysmon + Winlogbeat log forwarding  
+### Project 1: Ubuntu SOC Lab Setup
+**[Ubuntu SOC Lab](https://github.com/cscdanielj/homelab-ubuntu-soc)**  
+Building and configuring a Security Operations Center (SOC) lab on Ubuntu 20.04.6 LTS using **Wazuh SIEM** and **Suricata IDS** for hands-on practice with log collection, network monitoring, threat detection, and incident response.
+### Project 2: Windows 10 Endpoint Lab
+**[Windows 10 Endpoint Lab](https://github.com/cscdanielj/homelab-windows10-vm)**  
+Creating a Windows 10 VM configured with **Sysmon** and **Winlogbeat** to forward endpoint logs into the SOC, enabling detection and investigation of suspicious activity.  
+ 
 
 ## Learning log
 I keep short weekly notes in each lab repo:
