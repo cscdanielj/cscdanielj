@@ -17,11 +17,11 @@ I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in I
 - Documentation → Writing clear, repeatable guides for recreating SOC projects
 
 ## ⚙️ Technical Skills 
-**Platforms:** Ubuntu Server, Windows 10  
-**SOC stack:** Wazuh, Suricata, Elastic/Beats, Wireshark  
-**Endpoint:** Sysmon, Event Viewer Winlogbeat  
-**Networking:** NAT / Host-only, firewall configuration (UFW), packet capture, log analysis    
-**Scripting:** Bash, PowerShell (task automation, beginner level)
+- **Platforms:** Ubuntu Server, Windows 10  
+- **SOC stack:** Wazuh, Suricata, Elastic/Beats, Wireshark  
+- **Endpoint:** Sysmon, Event Viewer Winlogbeat  
+- **Networking:** NAT / Host-only, firewall configuration (UFW), packet capture, log analysis    
+- **Scripting:** Bash, PowerShell (task automation, beginner level)
 
 ## 🚧 Projects and Labs
 - [**Project 1: Home SOC Lab Setup**](https://cscdanielj.github.io/projects/home-soc-lab-setup)  
