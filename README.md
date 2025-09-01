@@ -4,22 +4,24 @@ I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in I
 
 
 ## 🗒️ About Me
-- I build SOC home labs on Ubuntu and Windows to practice log collection, threat detection, and incident response.  
-- I have hands-on lab experience with Wazuh, Suricata, Sysmon, and Winlogbeat for simulating enterprise blue team environments.  
-- I’m motivated to start my cybersecurity career in a SOC role and continue growing into detection engineering and threat hunting.  
+- I build SOC home labs on Ubuntu and Windows to practice log analysis, threat detection, and incident response.  
+- I have hands-on lab experience with Sysmon, Event Viewer, UFW, Wireshark, and Suricata, simulating real-world SOC workflows.  
+- I’m motivated to begin my cybersecurity career in a SOC Analyst role, with long-term goals of growing into detection engineering and threat hunting.  
 
 
 ## 📘 What I’m focused on
-- Collect → Detect → Investigate in a home SOC
-- Writing detections from real logs (Sysmon, Windows Events, Suricata)
-- Clear, repeatable documentation others can follow
+- Log Analysis → Detecting suspicious activity in Windows (Sysmon, Event Viewer) and Linux (auth.log)
+- System Hardening → Configuring firewalls (UFW) and monitoring authentication attempts
+- Network Visibility → Capturing and analyzing traffic with Wireshark to identify anomalies
+- Persistence Detection → Simulating malware techniques with scheduled tasks & cron jobs and investigating system logs
+- Documentation → Writing clear, repeatable guides for recreating SOC projects
 
 ## ⚙️ Technical Skills 
 **Platforms:** Ubuntu Server, Windows 10  
-**SOC stack:** Wazuh, Suricata, Elastic/Beats  
-**Endpoint:** Sysmon, Winlogbeat  
-**Networking:** NAT / Host-only lab networks, packet capture, log shipping  
-**Scripting:** Bash, PowerShell (beginner-friendly, task-oriented)
+**SOC stack:** Wazuh, Suricata, Elastic/Beats, Wireshark  
+**Endpoint:** Sysmon, Event Viewer Winlogbeat  
+**Networking:** NAT / Host-only, firewall configuration (UFW), packet capture, log analysis    
+**Scripting:** Bash, PowerShell (task automation, beginner level)
 
 ## 🚧 Projects and Labs
 - [**Project 1: Home SOC Lab Setup**](https://cscdanielj.github.io/projects/home-soc-lab-setup)  
