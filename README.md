@@ -5,7 +5,7 @@ I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in I
 
 ## 🗒️ About Me
 - I build SOC home labs on Ubuntu and Windows to practice log collection, threat detection, and incident response.  
-- I have hands-on experience with Wazuh, Suricata, Sysmon, and Winlogbeat for simulating enterprise blue team environments.  
+- I have hands-on lab experience with Wazuh, Suricata, Sysmon, and Winlogbeat for simulating enterprise blue team environments.  
 - I’m motivated to start my cybersecurity career in a SOC role and continue growing into detection engineering and threat hunting.  
 
 
@@ -34,10 +34,18 @@ Gain hands-on experience analyzing raw network traffic to identify patterns, dis
 Understand how persistence mechanisms work in both Windows and Linux by simulating scheduled tasks and cron jobs, then detecting and analyzing them in system logs as an analyst would during malware investigations. 
  
 
-## Learning log
-I keep short weekly notes in each lab repo:
-- What I changed  
-- What broke and how I fixed it  
-- One measurable result (new alert, better rule, cleaner diagram)
+## 📚Learning log 
+- Building practical experience in log analysis, endpoint hardening, and incident response by configuring and simulating a home Security Operations Center (SOC) environment with Windows 10 and Ubuntu virtual machines.
+- Developing skills in event log monitoring and detection using tools like Sysmon and Event Viewer to identify suspicious processes, failed logins, and system activity.
+- Enhancing expertise in network traffic analysis with Wireshark by capturing, reviewing, and interpreting packet-level data to spot anomalies and understand protocol behavior.
+- Strengthening knowledge of persistence and malware investigation techniques by simulating scheduled tasks and cron jobs, then detecting them through system logs on both Linux and Windows.
+
+## 💻Lets Connect!
+- **Email**: jddcybsec@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jason-daniel-067236346)
+- **GitHub**: [My GitHub Profile](https://github.com/cscdanielj)
+- **Portfolio**: [My Portfolio Website](https://cscdanielj.github.io/)
+
+  
 
 
