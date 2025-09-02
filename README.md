@@ -47,6 +47,7 @@ Understand how persistence mechanisms work in both Windows and Linux by simulati
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jason-daniel-067236346)
 - **GitHub**: [My GitHub Profile](https://github.com/cscdanielj)
 - **Portfolio**: [My Portfolio Website](https://cscdanielj.github.io/)
+- **Resume**: [My Resume](#)
 
   
 
