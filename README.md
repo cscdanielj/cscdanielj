@@ -43,7 +43,7 @@ Understand how persistence mechanisms work in both Windows and Linux by simulati
 - Strengthening knowledge of persistence and malware investigation techniques by simulating scheduled tasks and cron jobs, then detecting them through system logs on both Linux and Windows.
 
 ## 💻Lets Connect!
-- **Email**: jddcybsec@gmail.com
+- **Email**: [Email Me](jddcybsec@gmail.com)
 - **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/jason-daniel-067236346)
 - **GitHub**: [My GitHub Profile](https://github.com/cscdanielj)
 - **Portfolio**: [My Portfolio Website](https://cscdanielj.github.io/)
