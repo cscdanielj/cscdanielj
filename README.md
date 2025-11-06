@@ -25,7 +25,7 @@ I’m Jason Daniel, a recent Cybersecurity graduate with a small foundation in I
 
 ## 🚧 Projects and Labs
 - [**Project 0: Telehealth Security Research 2FA demo**](https://secure-telehealth-demo.netlify.app)
-Built and tested a demonstration of a MFA security system.  It works as a demo for any website or application.  This particular application is designed to protect a medical company's system records to promote security for all patient's personal information.
+Built and tested a demonstration of a MFA security system.  It works as a demo for any website or application.  This particular application is designed to protect a medical company's system records to promote security for all patient's personal information.  It also has a built-in AI threat detection simulator to show different intrusions attempting to penetrate the firewall to gain access from all over the world.
 - [**Project 1: Home SOC Lab Setup**](https://cscdanielj.github.io/projects/home-soc-lab-setup)  
 Building and configuring a Security Operations Center (SOC) lab on Ubuntu 20.04.6 LTS and Windows 10 for hands-on practice with log collection, network monitoring, threat detection, and incident response.
 - [**Project 2: Windows 10 Log Collection & Analysis with Event Viewer + Sysmon (Future Project)**](#)  
